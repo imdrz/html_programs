@@ -1,0 +1,80 @@
+.left {
+    text-align: left;
+  }
+  
+  .right {
+    text-align: right;
+  }
+  
+  .center {
+    text-align: center;
+  }
+  
+  .rgtbtn {
+    align-self: center;
+  }
+  
+  
+  
+  nav {
+    display: block;
+    background-color: tan;
+    padding: 10px;
+    border: 5px tan;
+    border-radius: 5px;
+    box-shadow: 5px 10px 8px 10px #888888;
+  }
+  
+  .navbutton {
+    background-color: rgb(110, 103, 103);
+    border: 3px black;
+    color: black;
+    border-radius: 3px;
+    padding: 7px;
+    cursor: pointer;
+  }
+  
+  
+  .navbutton:hover {
+    background-color: rgb(75, 69, 69);
+    color: white;
+  }
+
+  .solvebutton {
+      background-color: yellow;
+      padding: 10px;
+      border-radius: 5px;
+  }
+  
+  body {
+    background-color: powderblue;
+  }
+  
+  h1 {
+    color: darkblue;
+    font-family: Comic Sans MS;
+  }
+  
+  
+  a {
+    color: black;
+  }
+  
+  a:hover{
+    color: white;
+    background-color: black;
+  }
+
+input[type=text] {
+    border: 5px black;
+    border-radius: 5px;
+    background-color: white;
+    padding: 10px;
+    color: black;
+}
+
+.answer {
+    font-family: Comic Sans MS;
+    color: mediumblue;
+    font-size: large;
+}
