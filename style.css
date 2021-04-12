@@ -78,3 +78,76 @@ input[type=text] {
     color: mediumblue;
     font-size: large;
 }
+button {
+    background-color: orange;
+    border: none;
+    border-radius: 50px;
+    width: 50px;
+    height: 50px;
+    color: black;
+    font-size: 125%;
+    
+  }
+  
+  button:hover {
+    background-color: rgb(151, 105, 19);
+    color: whitesmoke;
+  }
+  
+  div {
+    padding: 5px;
+    border-radius: 5px;
+    background-color: black;
+    width: 150px;
+    height: 370px;
+  }
+  
+  txt {
+    padding: 3px;
+    border: 5px black;
+    border-radius: 4px;
+  }
+  
+  
+  body {
+    background-color: powderblue;
+  }
+  
+  h4 {
+    color: wheat;
+  }
+  
+  p {
+    color: white;
+    font-family: Comic Sans MS;
+    font-size: 60%;
+  }
+  
+  button2 {
+    background-color: rgb(110, 103, 103);
+    border: 3px black;
+    color: black;
+    border-radius: 3px;
+    padding: 7px;
+    cursor: pointer;
+  }
+  
+  
+  button2:hover {
+    background-color: rgb(75, 69, 69);
+    color: white;
+  }
+  
+  nav {
+    display: block;
+    background-color: tan;
+    padding: 10px;
+    border: 5px tan;
+    border-radius: 5px;
+  }
+  
+  h1 {
+    text-align: center;
+    color: darkblue;
+    font-family: Comic Sans MS;
+  }
